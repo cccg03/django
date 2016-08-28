@@ -1,0 +1,2 @@
+# django
+Polls tutorial app
